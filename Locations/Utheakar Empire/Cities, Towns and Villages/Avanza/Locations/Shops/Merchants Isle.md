@@ -1,0 +1,1 @@
+The Merchant's Isle is a string of small huts located on the coastal side of the town. It is 

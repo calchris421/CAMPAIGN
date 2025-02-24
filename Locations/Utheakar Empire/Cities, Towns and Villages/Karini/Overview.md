@@ -1,0 +1,1 @@
+Karini is a large fishing town located on the Lake de'Azure.

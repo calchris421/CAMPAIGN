@@ -1,0 +1,9 @@
+The architecture in Frayed Edge is a chaotic mishmash of crumbling structures and makeshift shelters. Buildings lean wearily against one another, their facades cracked and weather-beaten. Patchwork roofs, secured with tattered tarps and bits of salvaged metal, sag under the weight of countless storms. Narrow alleys wind between these structures like the seams of a threadbare quilt, offering glimpses into the intimate struggles of those who call this place home.
+
+The air is heavy with the scent of decay and desperation, the sound of distant laughter and echoing cries forming a dissonant symphony. Market stalls, adorned with faded banners, line the main thoroughfares, offering meager goods and faded dreams to those who dare to barter with their last bits of coin.
+
+Frayed Edge is a place of contrasts. Dilapidated buildings cast long shadows that stretch toward the gleaming spires of the city proper. Stray cats prowl alongside barefoot children playing in the dust, their laughter a fragile melody against the backdrop of urban decay.
+
+Dimly lit taverns and hidden corners serve as gathering spots for those who have fallen through the cracks of society. Here, whispered conversations weave tales of resilience and quiet rebellion, as the inhabitants of Frayed Edge refuse to be defined by the neglect that surrounds them.
+
+Yet, even in the midst of such hardship, there is a raw beauty to Frayed Edge. Vibrant murals and graffiti, painted on the sides of abandoned buildings, tell stories of resistance and hope. The frayed edges of this neglected tapestry may unravel, but within the weave of each thread lies the untold strength of a community bound by adversity.

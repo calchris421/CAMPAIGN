@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "a3b9bfe0fc13b136",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dd023ef8d77e651",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ukeathar Empire/Cities, Towns and Villages/Birodalom/Birodalom.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d858f21a5d0304a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "86b5c07fb77c24d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5beec5dcad3e8221",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5d056cb4b09c9a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c50a7a32588a54d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cba6138f2331f71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3c87dbead295954",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ukeathar Empire/Cities, Towns and Villages/Birodalom/Birodalom.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0dd023ef8d77e651",
+  "lastOpenFiles": [
+    "Lore/Gods/Hyrsam.md",
+    "General Information/House Rules.md",
+    "Ukeathar Empire/NPCs/Seven Circles/Xalvador Cloud.md",
+    "Ukeathar Empire/Organizations/Seven Circles.md",
+    "Ukeathar Empire/NPCs/Seven Circles/Marigold Morningfall.md",
+    "Ukeathar Empire/NPCs/Seven Circles/Grapip Jorxif Sinkur Salben.md",
+    "Ukeathar Empire/NPCs/Seven Circles/Celorfin Dlarra.md",
+    "Ukeathar Empire/Cities, Towns and Villages/Birodalom/Birodalom.md",
+    "Ukeathar Empire/Cities, Towns and Villages/Birodalom/POIs/The Center.md",
+    "Ukeathar Empire/Cities, Towns and Villages/Birodalom/POIs/Birodalom Docks.md"
+  ]
+}

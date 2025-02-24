@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "a3b9bfe0fc13b136",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f52052eea2dc10c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10c50f4788cf8027",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d858f21a5d0304a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "86b5c07fb77c24d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5beec5dcad3e8221",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f5d056cb4b09c9a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "887263134e26e51e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c50a7a32588a54d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cba6138f2331f71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3c87dbead295954",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a91bab08b52777e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "10c50f4788cf8027",
+  "lastOpenFiles": [
+    "desktop.ini",
+    "DnD-Campaign/README.md",
+    "DnD-Campaign",
+    "General Information/Sessions/Session Notes 02172025.md",
+    "Locations/Utheakarian Range/Marren's Eve.md",
+    "Locations/Utheakarian Range/Eldrishold.md",
+    "Untitled.canvas",
+    "().md",
+    "BLUEPRINT HERE.md",
+    "Locations/Utheakarian Range",
+    "General Information/Sessions/Session 4.md",
+    "General Information/Sessions/Session 5.md",
+    "General Information/Sessions/Session 3.md",
+    "General Information/House Rules.md",
+    "General Information/Sessions/Session 2.md",
+    "General Information/Sessions/Session 1.md",
+    "Player Characters/Freyr/Freyr.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/Locations/Moonweaver Estates.md",
+    "Player Characters/Untitled",
+    "Player Characters/Nova",
+    "Player Characters/Caspian",
+    "Player Characters/Untitled.md",
+    "Locations/Kingdom of Dreavuwyth/Solhaven.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Vezelyes Wilds COTOS Base.md",
+    "Locations/Utheakar Empire/NPCs/Sir Benedict Chevalier.md",
+    "Locations/Utheakar Empire/Overview.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/Locations/Avanza COTOS Base.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/Locations/Shops/Merchants Isle.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/Locations/Shops/Shops.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/Groups/Government.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/Groups/The Mariner's Catch.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/Locations/Bars/The Ogre's Alehouse.md",
+    "Story Points/Beginning Arc/Pasted image 20231115114145.png",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/NPCs",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Xalvador Cloud.pdf",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Susanna de Bolbec.pdf",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Mironwe Kevadirtinu.pdf",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Marigold Morningfall.pdf",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Birodalom.jpg",
+    "Locations/Utheakar Wilds/CTV/Dorland/download.png",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Karini/External Fires/Pasted image 20230313175427.png",
+    "Pasted image 20230313175355.png",
+    "Pasted image 20230313175403.png",
+    "Pasted image 20230313175415.png"
+  ]
+}

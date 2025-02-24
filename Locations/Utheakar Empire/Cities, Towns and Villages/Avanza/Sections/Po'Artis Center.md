@@ -1,0 +1,7 @@
+### Description: 
+There is a large street with a multitude of nicely made carriages, all horse drawn, headed down different parts of the street. The Street itself is made of a nice white stone that is etched into the ground in a variety of patterns that come to a somewhat smooth surface. Though there isn't any in the other parts of the city there do appear to be nicely kept sidewalks. The main road that follows the street ends in a large fountain depicting a mighty warrior, dwarven in stature with a hammer sheathed at their side, in their left hand is a water skin, that appears to be tipped over, with what seems to be an endless stream of water coming from it's opening. In their off hand, rests a single, birdlike creature. Around them are a variety of herons standing in the water, some with their beaks in the water, but most looking up to the statue.
+`anyone who makes a dc 10 perception check will notice that there is a Raven sitting in their hand, upon further inspection it has a placard of "Theron Ironfist, Legend of the Sable Storm Crusade".`
+
+All of the homes in this area are very nicely made manors, with nearly no presence of any kind of homeless or less fortunate.
+
+`passive perception of 15 or higher can see that there are guards posted in multiple places that are ushering on people who do loiter too long`

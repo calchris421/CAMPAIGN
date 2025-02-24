@@ -1,0 +1,1 @@
+Yuan-Ti Pureblood, original quest giver, Daughter was saved by the groups.
