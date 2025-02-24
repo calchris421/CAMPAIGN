@@ -11,10 +11,14 @@
             "id": "10c50f4788cf8027",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "New Note.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "New Note"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for New Note"
             }
           },
           {
@@ -108,12 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "New Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of New Note"
             }
           }
         ]
@@ -137,6 +143,8 @@
   },
   "active": "10c50f4788cf8027",
   "lastOpenFiles": [
+    "New Note.md",
+    "README.md",
     "desktop.ini",
     "DnD-Campaign/README.md",
     "DnD-Campaign",
@@ -168,13 +176,11 @@
     "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/Locations/Shops/Shops.md",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/Groups/Government.md",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/Groups/The Mariner's Catch.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/Locations/Bars/The Ogre's Alehouse.md",
     "Story Points/Beginning Arc/Pasted image 20231115114145.png",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/NPCs",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Xalvador Cloud.pdf",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Susanna de Bolbec.pdf",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Mironwe Kevadirtinu.pdf",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Marigold Morningfall.pdf",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Birodalom.jpg",
     "Locations/Utheakar Wilds/CTV/Dorland/download.png",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Karini/External Fires/Pasted image 20230313175427.png",
