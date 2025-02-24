@@ -8,13 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10c50f4788cf8027",
+            "id": "3ad50b69e1de18ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_cb8b19aa69f8",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 7,
+                    "month": 12,
+                    "year": 697
+                  },
+                  "viewState": 0,
+                  "displaying": {
+                    "day": 1,
+                    "month": 14,
+                    "year": 697
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_fb4889581bd9",
+                "child": "ID_8b9b09da8a7a"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           }
         ]
@@ -108,21 +127,49 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My New Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of My New Note"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "45fad5f2be48d143",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "52fe59872dbfcae5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf73e86acddbe4f6",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_cb8b19aa69f8",
+                "id": "ID_8b9b09da8a7a",
+                "parent": "ID_fb4889581bd9"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -133,51 +180,55 @@
       "markdown-importer:Open format converter": false,
       "templater-obsidian:Templater": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-map-view:Open map view": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "5beec5dcad3e8221",
+  "active": "3ad50b69e1de18ac",
   "lastOpenFiles": [
-    "My New Note.md",
-    "New Note.md",
-    "README.md",
-    "desktop.ini",
+    "Untitled.md",
+    "DnD-Campaign/Untitled 1.md",
+    "Avanza.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Valedge/Basic Information.md",
     "DnD-Campaign/README.md",
-    "DnD-Campaign",
-    "General Information/Sessions/Session Notes 02172025.md",
+    "Locations/Utheakar Wilds/CTV/Grashmere/Untitled.md",
+    "Locations/World Map Unfinished 1.jpg",
+    "Untitled.canvas",
+    "Locations/Utheakar Empire/Overview.md",
+    "Locations/Utheakar Empire/NPCs/Sir Benedict Chevalier.md",
+    "Locations/Ikareth.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Valedge/Quests.md",
+    "Story Points/Beginning Arc/Beginning Mission.md",
+    "Story Points/Beginning Arc/Pasted image 20231115114145.png",
+    "README.md",
+    "().md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Birodalom.jpg",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Valedge/Untitled",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Valedge",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Untitled.md",
+    "Locations/Utheakar Wilds/CTV/Dorland/download.png",
+    "Locations/Utheakar Wilds/CTV/Dorland/General.md",
+    "Locations/Utheakar Wilds/CTV/Grashmere/Grashmere Mines COTOS Base.md",
     "Locations/Utheakarian Range/Marren's Eve.md",
     "Locations/Utheakarian Range/Eldrishold.md",
-    "Untitled.canvas",
-    "().md",
+    "My New Note.md",
+    "New Note.md",
+    "desktop.ini",
+    "DnD-Campaign",
+    "General Information/Sessions/Session Notes 02172025.md",
     "BLUEPRINT HERE.md",
     "Locations/Utheakarian Range",
     "General Information/Sessions/Session 4.md",
     "General Information/Sessions/Session 5.md",
     "General Information/Sessions/Session 3.md",
     "General Information/House Rules.md",
-    "General Information/Sessions/Session 2.md",
-    "General Information/Sessions/Session 1.md",
-    "Player Characters/Freyr/Freyr.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/Locations/Moonweaver Estates.md",
     "Player Characters/Untitled",
     "Player Characters/Nova",
     "Player Characters/Caspian",
-    "Player Characters/Untitled.md",
-    "Locations/Kingdom of Dreavuwyth/Solhaven.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Vezelyes Wilds COTOS Base.md",
-    "Locations/Utheakar Empire/NPCs/Sir Benedict Chevalier.md",
-    "Locations/Utheakar Empire/Overview.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/Locations/Avanza COTOS Base.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/Locations/Shops/Merchants Isle.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/Locations/Shops/Shops.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/Groups/Government.md",
-    "Story Points/Beginning Arc/Pasted image 20231115114145.png",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/NPCs",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Xalvador Cloud.pdf",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Susanna de Bolbec.pdf",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Mironwe Kevadirtinu.pdf",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Birodalom.jpg",
-    "Locations/Utheakar Wilds/CTV/Dorland/download.png",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Karini/External Fires/Pasted image 20230313175427.png",
     "Pasted image 20230313175355.png",
     "Pasted image 20230313175403.png",

@@ -1,0 +1,213 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Inkarnate Map",
+      "locked": false,
+      "lastAccessed": 1740422800062,
+      "markers": [
+        {
+          "id": "ID_c96a28abbb0a",
+          "type": "default",
+          "loc": [
+            -1.4453125,
+            5.390625
+          ],
+          "layer": "%5B%5BWorld%20Map%20Unfinished%201.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.71875,
+            0.3425925925925926
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b0bbb28a908",
+          "type": "default",
+          "loc": [
+            -2.044921875,
+            5.37109375
+          ],
+          "layer": "%5B%5BWorld%20Map%20Unfinished%201.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7161458333333334,
+            0.4847222222222222
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "DnD-Campaign/Untitled 1.md"
+      ]
+    },
+    {
+      "id": "ezaros-world-region",
+      "locked": false,
+      "lastAccessed": 1740423840559,
+      "markers": [],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -2.55859375,
+              "lng": 7.005859375,
+              "id": "ID_e85a6beaead9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.34375,
+              "lng": 6.9453125,
+              "id": "ID_da6ab86b68b9",
+              "targets": {
+                "vertexIds": [
+                  "ID_baf818fb0a9a"
+                ]
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -2.025390625,
+              "lng": 5.359375,
+              "id": "ID_5958fbfbe9d9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.0419921875,
+              "lng": 6.044921875,
+              "id": "ID_7bb838e8cbfa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.3095703125,
+              "lng": 5.9609375,
+              "id": "ID_faebb99bf89a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.34375,
+              "lng": 6.9453125,
+              "id": "ID_baf818fb0a9a",
+              "targets": {
+                "vertexIds": [
+                  "ID_da6ab86b68b9"
+                ]
+              }
+            },
+            {
+              "lat": -2.3203125,
+              "lng": 6.623046875,
+              "id": "ID_c97bd919e979",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "DnD-Campaign/Untitled 1.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[World Map Unfinished 1.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[World Map Unfinished 1.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "ezaros-world-region",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
