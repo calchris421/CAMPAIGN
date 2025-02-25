@@ -1,0 +1,28 @@
+Traveling Table:
+1-2: Difficult Encounter (1d6)
+3-4: Easier Encounter (1d6)
+5-6: +1 Day of Travel
+7-8: Difficult Weather (1d6) (dc10 constitution save or +1 point of exhaustion)
+
+	6: Regular Storm
+	4-5: Torrential Downpour (Misguidance of party members/getting lost/losing days of travel
+	2-3: Icy Storm - (dc 15 con save or take +1 point of exhaustion)
+	1: Spontaneous Hail storm (both effects above)
+
+9-10: Group Runs into a Razorvine Trap, must find way to escape
+11-12: Come across a shrine to a god. (Must succeed on a DC 15 Religion check in order to get information on a mortal being that was treated like a god)
+13-16: There is a medium beast carrying what looks like a glowing satchel, if they can catch it, they will get a Pearl of Power (uncommon magic item)
+17-18: Kind traveling merchant who is a Kharsha (the Traveling Merchant)
+19-20: -1 Day of Travel
+
+Khajid is a stark white Tabaxi merchant who travels the lands with his caravan of magical oddities, The Stirred Pot. The Stirred Pot is a typical magic item caravan. I would stock it with 2-3 level appropriate wondrous items and 4-5 items rolled from a magic loot table. The catch with The Stirred Pot is that Khajid will give you a discount if you give him a good rumor. This is my secret tool for having players actually pay attention and remember story beats. Want that immovable rod at a steep discount? Then you better have remembered that the Lord of the land is having an affair! If your players decide to be little shits and lie to Khajid, his +15 to insight will probably beat whatever deception they manage. In this case, prices for the afformentioned liar are doubled for life, and they will only be referred to as "liar" from then on.
+
+Khajid always seems to be around when it's convenient. This is due to the fact that he's a very high level druid, and travels the land using Transport Via Plants. In my specific game he was a level 20 circle of dreams druid due to plot reasons, but he can be whatever you want him to in yours.
+
+Khajid is also a walking side quest machine when you have some downtime or missing players. Here are a few I used that you can springboard off:
+
+The Missing Haversack: Khajid keeps a ludicrous amount of Handy Haversacks. He's got to keep all the goods somewhere, right? However, during your shopping spree, you notice (DC 10 insight), that Khajid is nervously fidgeting around his caravan. Upon asking, one of his Haversacks is missing. In my campaign, this Haversack contained a ton of gold and 3 cards to the Deck of Many Things (We have a long running quest to retrieve the cards). In your campaign, it could be anything!
+
+An Uninvited Journey: Up until now, the player's have noticed that Khajid purposefully takes his time leaving via plants, taking the whole six seconds allowing no one behind him. This time, he is in a rush and leaves immediately, leaving 5 seconds of the spell left for players to follow suit. A DC 15 dexterity check from the majority of the party will allow them all to pass through. On the other side is a deep, dark wooded area, home to many other worldly flora and fauna. In my personal campaign, these woods held portals to the feywild and a pathway to the underdark, and allowed for a fun no-rails style session.
+
+Khajid fills the roll of a convenient place to spend gold while also having an explanation as to why he's always around. Playing their cards right, he can also be a powerful ally.

@@ -1,0 +1,13 @@
+1: 1 Adult Dragon
+
+2: 2 Oni
+
+3: 5 Giant Constrictors
+   9 Constrictor Snakes
+
+4: 6 Ettercap
+   4 Giant Spider
+
+5: 8 Griffon
+
+6: 4 Wereboar
