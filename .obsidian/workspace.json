@@ -11,8 +11,12 @@
             "id": "10c50f4788cf8027",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/POIs/Capitol Center Markets.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/POIs/Capitol Center Markets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/POIs/Capitol Center Markets.md"
+              }
             }
           }
         ]
@@ -112,10 +119,15 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-map-view:Open map view": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "5beec5dcad3e8221",
+  "active": "10c50f4788cf8027",
   "lastOpenFiles": [
     "Untitled.md",
     "Locations/World Map Unfinished 1.jpg",
