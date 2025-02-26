@@ -8,60 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ad50b69e1de18ac",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_cb8b19aa69f8",
-                "ephemeral": {
-                  "viewing": {
-                    "day": 24,
-                    "month": 13,
-                    "year": 697
-                  },
-                  "viewState": 2,
-                  "displaying": {
-                    "day": 24,
-                    "month": 13,
-                    "year": 697
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_fb4889581bd9",
-                "child": "ID_d85af9182ae8"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "c01b7897cbce0434",
+            "id": "10c50f4788cf8027",
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "6c512d9f639ce50c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Information/Flower Circle Interactions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Flower Circle Interactions"
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,11 +34,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -99,9 +50,7 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -109,9 +58,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -127,7 +74,6 @@
       {
         "id": "4cba6138f2331f71",
         "type": "tabs",
-        "dimension": 41.92307692307693,
         "children": [
           {
             "id": "f3c87dbead295954",
@@ -142,9 +88,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              }
             }
           },
           {
@@ -152,92 +96,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "45fad5f2be48d143",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_cb8b19aa69f8",
-                "ephemeral": {
-                  "viewing": {
-                    "day": 24,
-                    "month": 13,
-                    "year": 697
-                  },
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 24,
-                    "month": 13,
-                    "year": 697
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_3b0aca3b8ba8",
-                "child": "ID_1a2ada09cb88"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "5a11131cd58f72fc",
-        "type": "tabs",
-        "dimension": 31.826923076923073,
-        "children": [
-          {
-            "id": "0429f43934b514d5",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_cb8b19aa69f8",
-                "id": "ID_1a2ada09cb88",
-                "parent": "ID_3b0aca3b8ba8"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b9fd32639dfa9fcd",
-        "type": "tabs",
-        "dimension": 26.25,
-        "children": [
-          {
-            "id": "92c5519a0bbdc1c9",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_cb8b19aa69f8",
-                "id": "ID_d85af9182ae8",
-                "parent": "ID_fb4889581bd9"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,57 +112,52 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-map-view:Open map view": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "calendarium:Open Calendarium": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "0429f43934b514d5",
+  "active": "5beec5dcad3e8221",
   "lastOpenFiles": [
-    "General Information/Traveling Document.md",
-    "General Information/Flower Circle Interactions.md",
-    "General Information/Riddle.md",
-    "General Information/Sessions/Session 02242025.md",
-    "DnD-Campaign/Untitled 1.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Valedge/Traders Guild.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Valedge/Basic Information.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Valedge/Quests.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Valedge/The Rugged Wayfarer.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Valedge/Town Square (Trading Hub).md",
     "Untitled.md",
-    "Avanza.md",
-    "DnD-Campaign/README.md",
-    "Locations/Utheakar Wilds/CTV/Grashmere/Untitled.md",
     "Locations/World Map Unfinished 1.jpg",
-    "Untitled.canvas",
-    "Locations/Utheakar Empire/Overview.md",
-    "Locations/Utheakar Empire/NPCs/Sir Benedict Chevalier.md",
-    "Locations/Ikareth.md",
-    "Story Points/Beginning Arc/Beginning Mission.md",
-    "Story Points/Beginning Arc/Pasted image 20231115114145.png",
-    "README.md",
-    "().md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Birodalom.jpg",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Valedge/Untitled",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Valedge",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Untitled.md",
-    "Locations/Utheakar Wilds/CTV/Dorland/download.png",
-    "Locations/Utheakar Wilds/CTV/Dorland/General.md",
+    "Locations/Utheakar Wilds/CTV/Grashmere/Untitled.md",
     "Locations/Utheakar Wilds/CTV/Grashmere/Grashmere Mines COTOS Base.md",
+    "Locations/Utheakar Wilds/CTV/Grashmere",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Valedge/Traders Guild.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Valedge/Town Square (Trading Hub).md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Valedge/The Rugged Wayfarer.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Valedge/Quests.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Valedge/Basic Information.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Valedge",
+    "General Information/Traveling Document.md",
+    "General Information/Sessions/Session 02242025.md",
+    "General Information/Riddle.md",
+    "General Information/Flower Circle Interactions.md",
+    "My New Note.md",
+    "New Note.md",
+    "desktop.ini",
+    "DnD-Campaign/README.md",
+    "DnD-Campaign",
+    "General Information/Sessions/Session Notes 02172025.md",
     "Locations/Utheakarian Range/Marren's Eve.md",
     "Locations/Utheakarian Range/Eldrishold.md",
-    "My New Note.md",
-    "desktop.ini",
-    "DnD-Campaign",
+    "Untitled.canvas",
+    "().md",
+    "BLUEPRINT HERE.md",
     "Locations/Utheakarian Range",
+    "General Information/Sessions/Session 4.md",
+    "General Information/Sessions/Session 5.md",
+    "General Information/Sessions/Session 3.md",
+    "General Information/House Rules.md",
+    "General Information/Sessions/Session 2.md",
+    "General Information/Sessions/Session 1.md",
     "Player Characters/Untitled",
     "Player Characters/Nova",
     "Player Characters/Caspian",
+    "Story Points/Beginning Arc/Pasted image 20231115114145.png",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/NPCs",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Xalvador Cloud.pdf",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Birodalom.jpg",
+    "Locations/Utheakar Wilds/CTV/Dorland/download.png",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Karini/External Fires/Pasted image 20230313175427.png",
     "Pasted image 20230313175355.png",
     "Pasted image 20230313175403.png",
