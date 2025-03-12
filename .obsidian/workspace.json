@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/POIs/Capitol Center Markets.md",
+                "file": "Character Stuff/Amanda Braitwaithe/Family Members/Samuel Braitwaith.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c50a7a32588a54d0",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/POIs/Capitol Center Markets.md",
+                "file": "Character Stuff/Amanda Braitwaithe/Family Members/Samuel Braitwaith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/POIs/Capitol Center Markets.md"
+                "file": "Character Stuff/Amanda Braitwaithe/Family Members/Samuel Braitwaith.md"
               }
             }
           }
@@ -129,8 +130,24 @@
   },
   "active": "10c50f4788cf8027",
   "lastOpenFiles": [
-    "Untitled.md",
     "Locations/World Map Unfinished 1.jpg",
+    "Character Stuff/Amanda Braitwaithe/Family Members/Samuel Braitwaith.md",
+    "Character Stuff/Charlotte",
+    "README.md",
+    "Character Stuff/Amanda Braitwaithe/Family Members",
+    "Character Stuff/Dunn Kno",
+    "Character Stuff/Grud Mudhand",
+    "Character Stuff/Tangle Tongle",
+    "Character Stuff/Amanda Braitwaithe",
+    "Character Stuff",
+    "Lore/Ithekarian Penninsula/Ynryll.md",
+    "Untitled.md",
+    "Lore/Children of the Obsidian Sun/Children of the Obsidian Sun.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Starlight Festival/Dinner Party.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/POIs/Capitol Center Markets.md",
+    "Locations/Utheakar Empire/NPCs/Seven Circles/Celorfin Dlarra.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Starlight Festival",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Untitled.md",
     "Locations/Utheakar Wilds/CTV/Grashmere/Untitled.md",
     "Locations/Utheakar Wilds/CTV/Grashmere/Grashmere Mines COTOS Base.md",
     "Locations/Utheakar Wilds/CTV/Grashmere",
@@ -146,28 +163,11 @@
     "General Information/Flower Circle Interactions.md",
     "My New Note.md",
     "New Note.md",
-    "desktop.ini",
     "DnD-Campaign/README.md",
-    "DnD-Campaign",
     "General Information/Sessions/Session Notes 02172025.md",
     "Locations/Utheakarian Range/Marren's Eve.md",
-    "Locations/Utheakarian Range/Eldrishold.md",
     "Untitled.canvas",
-    "().md",
-    "BLUEPRINT HERE.md",
-    "Locations/Utheakarian Range",
-    "General Information/Sessions/Session 4.md",
-    "General Information/Sessions/Session 5.md",
-    "General Information/Sessions/Session 3.md",
-    "General Information/House Rules.md",
-    "General Information/Sessions/Session 2.md",
-    "General Information/Sessions/Session 1.md",
-    "Player Characters/Untitled",
-    "Player Characters/Nova",
-    "Player Characters/Caspian",
     "Story Points/Beginning Arc/Pasted image 20231115114145.png",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Avanza/NPCs",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Xalvador Cloud.pdf",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Birodalom.jpg",
     "Locations/Utheakar Wilds/CTV/Dorland/download.png",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Karini/External Fires/Pasted image 20230313175427.png",
