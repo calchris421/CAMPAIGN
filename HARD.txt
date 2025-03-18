@@ -1,0 +1,14 @@
+1: 8 Water Weirds
+
+2: 6 Werewolf
+   3 Wolf
+   2 Dire Wolf
+
+3: 1 Stone Golem
+   3 Golem, Lesser
+
+4: 2 Treant
+
+5: 3 Cyclops
+
+6: 8 Phase Spiders

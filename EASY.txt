@@ -1,0 +1,17 @@
+1: 4 Green Hag
+   2 Scarecrow
+
+2: 4 Winter Wolves
+
+3: 2 Bulette
+
+4: 1	Bugbear Chief
+   3	Hobgoblin
+   1	Goblin boss
+   2	Hobgoblin
+
+5: 1 Gnoll pack lord
+   2 Gnoll fang of Yeenoghu
+   3 Gnoll
+
+6: 4 Basilisk
