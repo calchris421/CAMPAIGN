@@ -223,8 +223,8 @@
         "useCustomYears": false
       },
       "current": {
-        "day": 26,
-        "month": 13,
+        "day": 5,
+        "month": 14,
         "year": 697
       },
       "events": [
@@ -521,6 +521,23 @@
           "id": "ID_0a38e8980bc8",
           "note": null,
           "category": "ID_58692898386a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Arrived in Valedge",
+          "description": null,
+          "date": {
+            "day": 27,
+            "month": 13,
+            "year": 697
+          },
+          "id": "ID_7a59e8fafb79",
+          "note": null,
+          "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""

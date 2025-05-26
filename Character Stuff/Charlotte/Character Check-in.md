@@ -1,0 +1,18 @@
+- She hasn't fully processed the shadowed sovereignty
+	- In her mind its kind of just kidnappers/human traffickers
+	- The scale of what it could be hasn't fully set in
+		- Logical brain knows it but the scale hasn't fully hit yet
+- Flower Circles
+	- Hasn't had chance to encounter them again
+	- Since she realized its not a malevolent force she is interested in approaching them.
+	- "What do you want to show me" after walking into the flower circles
+- Going to Birodal
+	- There is some level of nervousness to her going
+		- She knows she's not going to do anything wrong
+		- Just knows she has to be on her toes
+	- Other people may not act right
+- Broken crystal
+	- She needed time to be away from it
+- Amanda
+	- Depending on what she wants them to do she is nervous
+	- 

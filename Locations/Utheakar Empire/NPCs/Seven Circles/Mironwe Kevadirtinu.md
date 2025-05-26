@@ -1,5 +1,5 @@
 ## Overview
-Mironwe Kevadirtinu is the ranking member of the council. He holds much power in the military and believes in the rule of the iron fist. His tactics are sometimes seen as too much, and it makes him relatively unfavored by the general population.
+Miron'we Keva'dir'tinu is the ranking member of the council. He holds much power in the military and believes in the rule of the iron fist. His tactics are sometimes seen as too much, and it makes him relatively unfavored by the general population.
 
 ---
 ### Appearance:

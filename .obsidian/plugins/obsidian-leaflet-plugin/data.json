@@ -53,8 +53,25 @@
     {
       "id": "ezaros-world-region",
       "locked": false,
-      "lastAccessed": 1742246763442,
-      "markers": [],
+      "lastAccessed": 1747694595777,
+      "markers": [
+        {
+          "id": "ID_fbdbd9dac928",
+          "type": "default",
+          "loc": [
+            50.2265625,
+            104.234375
+          ],
+          "layer": "%5B%5BWorld%20Map%20Unfinished%201.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
       "overlays": [],
       "shapes": [
         {
