@@ -1,4 +1,4 @@
-## General Information
+ ## General Information
 - Point of interest in [[Birodal]]
 - Center of Government for [[Birodal]]
 - Houses the [[Seven Circles]]

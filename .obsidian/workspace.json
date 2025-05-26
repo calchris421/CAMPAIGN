@@ -41,30 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Information/Sessions/Session 03102025.md",
+                "file": "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/00. DESCRIPTIONS OF ALL .00.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 03102025"
-            }
-          },
-          {
-            "id": "d6ba548affdc73a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Information/Traveling Document.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Traveling Document"
+              "title": "00. DESCRIPTIONS OF ALL .00"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 276.5
   },
   "right": {
     "id": "c50a7a32588a54d0",
@@ -241,7 +227,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 483.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,47 +244,47 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d6ba548affdc73a1",
+  "active": "d8c82c53c2042b77",
   "lastOpenFiles": [
-    "General Information/Sessions/Session 5.19.2025.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Centranade/Centranade.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/00. DESCRIPTIONS OF ALL .00.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Indinade.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Battstone.md",
+    "Locations/Utheakar Empire/Organizations/Seven Circles.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Centranade/Hall of Banners.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Centranade",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Silvenade.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Veilward.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Velprom.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Crimsnade.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Ochrnade.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Onynade.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Aurprom.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Azurnade.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Coppenade.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/POIs/Birodal Docks.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/POIs/Birodal COTOS Base.md",
+    "General Information/Sessions/Session 5.26.2025.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/POIs/Capitol Center Markets.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/POIs/The Center.md",
+    "Locations/Utheakar Empire/NPCs/Seven Circles/Celorfin Dlarra.md",
+    "Locations/Utheakar Wilds/CTV/Havencrest/Map and Locations.md",
     "General Information/Sessions/Session 03102025.md",
+    "Havencrest.geojson",
+    "General Information/Traveling Document.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Birodalom.jpg",
     "DnD-Campaign/Untitled 1.md",
     "DnD-Campaign/README.md",
     "Locations/World Map Unfinished 1.jpg",
-    "Story Points/Beginning Arc/Beginning Mission.md",
     "Story Points/Beginning Arc/Pasted image 20231115114145.png",
-    "General Information/Traveling Document.md",
-    "Locations/Utheakar Empire/Organizations/Seven Circles.md",
-    "Locations/Utheakar Empire/NPCs/Seven Circles/Mironwe Kevadirtinu.md",
-    "Locations/Utheakar Empire/NPCs/Seven Circles/Dirinor Aldarina.md",
-    "Locations/Utheakar Empire/NPCs/Seven Circles/Susanna de Bolbec.md",
-    "Locations/Utheakar Empire/NPCs/Seven Circles/Xalvador Cloud.md",
-    "Locations/Utheakar Empire/NPCs/Seven Circles/Marigold Morningfall.md",
-    "Locations/Utheakar Empire/NPCs/Seven Circles/Grapip Jorxif Sinkur Salben.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Valedge/Traders Guild.md",
-    "Character Stuff/Amanda Braitwaithe/Family Members/Samuel Braitwaith.md",
-    "Character Stuff/Nova/Check-in.md",
-    "Character Stuff/Charlotte/Character Check-in.md",
-    "Character Stuff/Grud/Check in.md",
     "Character Stuff/Grud",
-    "Character Stuff/Dunn/Check in.md",
     "Character Stuff/Nova",
     "Character Stuff/Dunn",
-    "General Information/Flower Circle Interactions.md",
-    "General Information/Sessions/Session 02242025.md",
-    "General Information/Sessions/Session 02172025.md",
-    "General Information/Sessions/Session 4.md",
     "Character Stuff/Charlotte",
-    "General Information/Riddle.md",
-    "General Information/House Rules.md",
-    "General Information/Sessions/Session 2.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Birodalom.jpg",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Mironwe Kevadirtinu.pdf",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Marigold Morningfall.pdf",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Celorfin Dlarra.pdf",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Dirinor Aldarina.pdf",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Starlight Festival",
-    "Character Stuff/Amanda Braitwaithe/Family Members",
     "Untitled.canvas",
     "Locations/Utheakar Wilds/CTV/Dorland/download.png",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Karini/External Fires/Pasted image 20230313175427.png",
