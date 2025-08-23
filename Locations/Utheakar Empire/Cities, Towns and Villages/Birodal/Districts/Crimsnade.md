@@ -1,4 +1,4 @@
-**The Crimson Promenade**, the very pulse of Birodal’s beating heart—where the city's **most illustrious market**, finest entertainment, and grandest lodgings converge into an experience that every visitor, merchant, and noble seeks to indulge in at least once.
+ **The Crimson Promenade**, the very pulse of Birodal’s beating heart—where the city's **most illustrious market**, finest entertainment, and grandest lodgings converge into an experience that every visitor, merchant, and noble seeks to indulge in at least once.
 
 ### **District Atmosphere**
 
@@ -20,7 +20,55 @@ Towering over the promenade like a **guardian of indulgence**, the **Dragon’s 
     
 - Some say its **vaulted cellars** hold secret meeting spaces where rulers and rogue merchants alike strike deals **far from prying eyes**.
     
+### 🌌 **Dragon's Den Signature Drinks**
 
+#### 🌠 _Moonbeam Martini_
+
+- A chilled, iridescent cocktail that glows faintly in the dark.
+    
+- Grants the drinker **advantage on Insight checks** for 1 hour as their mind clears like moonlight on water.
+    
+
+#### 🌟 _Celestial Cider_
+
+- Sparkling apple cider infused with starfruit and a hint of mint.
+    
+- Causes the drinker’s eyes to glow softly, giving **Darkvision up to 30 feet** for 1 hour.
+    
+
+#### 🔮 _Nebula Nectar_
+
+- A swirling mix of plum wine and lavender syrup with edible glitter.
+    
+- On a successful DC12 Arcana check, the drinker can **cast** _**Minor Illusion**_ **once** within the next hour.
+    
+
+#### 🌙 _Lunar Liqueur_
+
+- A creamy, pale blue drink served in crescent-shaped glasses.
+    
+- The drinker feels weightless and gains **advantage on Acrobatics checks** for 1 hour.
+    
+
+#### 💫 _Starfall Sangria_
+
+- A blend of exotic fruits soaked in glowing wine.
+    
+- Each sip gives a random effect: sparkle breath, glowing fingertips, or a faint musical hum when speaking.
+    
+
+#### 🪐 _Cosmic Cooler_
+
+- A fizzy drink with floating spheres of flavored ice that orbit the glass.
+    
+- Grants **resistance to cold damage** for 10 minutes.
+    
+
+#### 🔥 _Solar Flare Shot_
+
+- A spicy cinnamon and citrus shot that warms the soul.
+    
+- Drinkers gain **advantage on saving throws against fear** until their next long rest.
 ### **Key Landmarks**
 
 - **The Ember Market** – The largest bazaar in Birodal, a dizzying display of goods from across the world. Fine silks, exotic spices, enchanted trinkets—if it exists, it’s for sale here.

@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "195b1a7b77828ef4",
+            "id": "d82d0d5fa2dd2fd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Utheakar Empire/Organizations/Seven Circles.md",
+                "file": "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Crimsnade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seven Circles"
-            }
-          },
-          {
-            "id": "235a72950fe8b0af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD-Campaign/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "d8c82c53c2042b77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/00. DESCRIPTIONS OF ALL .00.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00. DESCRIPTIONS OF ALL .00"
+              "title": "Crimsnade"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 386.5
   },
   "right": {
     "id": "c50a7a32588a54d0",
@@ -116,7 +87,6 @@
       {
         "id": "4cba6138f2331f71",
         "type": "tabs",
-        "dimension": 41.92307692307693,
         "children": [
           {
             "id": "f3c87dbead295954",
@@ -160,7 +130,7 @@
                 "calendar": "ID_cb8b19aa69f8",
                 "ephemeral": {
                   "viewing": {
-                    "day": 5,
+                    "day": 15,
                     "month": 14,
                     "year": 697
                   },
@@ -179,45 +149,52 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "5a11131cd58f72fc",
-        "type": "tabs",
-        "dimension": 31.826923076923073,
-        "children": [
+          },
           {
-            "id": "0429f43934b514d5",
+            "id": "5706080c743e83e0",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM_AGENDA",
+              "type": "CALENDARIUM",
               "state": {
                 "calendar": "ID_cb8b19aa69f8",
-                "id": "ID_1a2ada09cb88",
-                "parent": "ID_3b0aca3b8ba8"
+                "ephemeral": {
+                  "viewing": {
+                    "day": 8,
+                    "month": 14,
+                    "year": 697
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 7,
+                    "month": 14,
+                    "year": 697
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_fb687baad92a",
+                "child": "ID_e99b5a584b58"
               },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
-        "id": "b9fd32639dfa9fcd",
+        "id": "74d69cb0134d016a",
         "type": "tabs",
-        "dimension": 26.25,
         "children": [
           {
-            "id": "92c5519a0bbdc1c9",
+            "id": "411f0a35201f255f",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
                 "calendar": "ID_cb8b19aa69f8",
-                "id": "ID_d85af9182ae8",
-                "parent": "ID_fb4889581bd9"
+                "id": "ID_e99b5a584b58",
+                "parent": "ID_fb687baad92a"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -227,8 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 393.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,47 +220,47 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d8c82c53c2042b77",
+  "active": "d82d0d5fa2dd2fd8",
   "lastOpenFiles": [
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Centranade/Centranade.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/00. DESCRIPTIONS OF ALL .00.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Indinade.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Battstone.md",
-    "Locations/Utheakar Empire/Organizations/Seven Circles.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Centranade/Hall of Banners.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Centranade",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Silvenade.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Veilward.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Velprom.md",
+    "Character Stuff/Dunn/Check in.md",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Crimsnade.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Ochrnade.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Onynade.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Aurprom.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Azurnade.md",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Coppenade.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/POIs/Birodal Docks.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/POIs/Birodal COTOS Base.md",
-    "General Information/Sessions/Session 5.26.2025.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/POIs/Capitol Center Markets.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/POIs/The Center.md",
-    "Locations/Utheakar Empire/NPCs/Seven Circles/Celorfin Dlarra.md",
-    "Locations/Utheakar Wilds/CTV/Havencrest/Map and Locations.md",
-    "General Information/Sessions/Session 03102025.md",
-    "Havencrest.geojson",
-    "General Information/Traveling Document.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Birodalom.jpg",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Indinade.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Ochrnade.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Silvenade.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Centranade/Grand Ethereal Court.md",
+    "Book Club Possibilities.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Azurnade.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Valedge/The Rugged Wayfarer.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Onynade.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/00. DESCRIPTIONS OF ALL .00.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Festival of the Stars Decorations.md",
+    "Aegilil Sel'dameth.md",
     "DnD-Campaign/Untitled 1.md",
-    "DnD-Campaign/README.md",
     "Locations/World Map Unfinished 1.jpg",
+    "Locations/Ikareth.md",
     "Story Points/Beginning Arc/Pasted image 20231115114145.png",
+    "Story Points/Beginning Arc/Untitled.md",
+    "General Information/Sessions/Session 3.md",
+    "General Information/Sessions/Session 2.md",
+    "General Information/Sessions/Session 1.md",
+    "General Information/Traveling Document.md",
+    "General Information/House Rules.md",
+    "Character Stuff/Amanda Braitwaithe/Family Members/Samuel Braitwaith.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Centranade/Arcane Tether.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Centranade/Lore & Artifacts/The Luminarch Keystone.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Centranade/Lore & Artifacts/Leyline Lore.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Centranade/Lore & Artifacts",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Centranade",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts",
+    "Havencrest.geojson",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Birodalom.jpg",
     "Character Stuff/Grud",
     "Character Stuff/Nova",
     "Character Stuff/Dunn",
     "Character Stuff/Charlotte",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Mironwe Kevadirtinu.pdf",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Marigold Morningfall.pdf",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Celorfin Dlarra.pdf",
     "Untitled.canvas",
     "Locations/Utheakar Wilds/CTV/Dorland/download.png",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Karini/External Fires/Pasted image 20230313175427.png",
