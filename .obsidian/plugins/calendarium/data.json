@@ -577,7 +577,24 @@
           "color": "#74e0b5",
           "name": "Festival of the Stars"
         }
-      ]
+      ],
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 833191521,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      }
     }
   ],
   "configDirectory": null,
@@ -594,8 +611,8 @@
   "eventFrontmatter": false,
   "parseDates": true,
   "version": {
-    "major": 1,
-    "minor": 5,
+    "major": 2,
+    "minor": 0,
     "patch": 0,
     "beta": null
   },
