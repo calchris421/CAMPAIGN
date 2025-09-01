@@ -10,14 +10,11 @@ Miron'we Keva'dir'tinu is the ranking member of the council. He holds much power
 - Eyes: Brown
 - General Appearance:
 	- He has a soft, copper colored skin
-	- Oblong face, stunning complection
+	- Oblong face, stunning complexion
 	- Deaf in his left ear due to an explosion
 ---
 ### Interesting Facts:
-- Feverently worships the got Akadi, Goddess of air, movement, and speed
 - Self-confident, not easy to intimidate
-- More comfortable while surrounded by nature
-- Uses long vocabulary
 ---
 ### Character Sheet:
 ![[Mironwe Kevadirtinu.pdf]]

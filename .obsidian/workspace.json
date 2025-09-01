@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9de5186afd190b16",
+        "id": "7e482d8ff493cf20",
         "type": "tabs",
         "children": [
           {
-            "id": "529e33db3332c0ef",
+            "id": "d82d0d5fa2dd2fd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/03. The Shard Table.md",
+                "file": "Locations/Utheakar Empire/NPCs/Elyndra Vex’ael.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03. The Shard Table"
+              "title": "Elyndra Vex’ael"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Elynd",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 386.5
   },
   "right": {
     "id": "c50a7a32588a54d0",
@@ -146,8 +146,8 @@
                 "id": "ID_3b0aca3b8ba8",
                 "child": "ID_1a2ada09cb88"
               },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
@@ -204,11 +204,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -221,43 +221,43 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "529e33db3332c0ef",
+  "active": "5beec5dcad3e8221",
   "lastOpenFiles": [
     "Screenshot 2025-08-23 at 12.39.32 PM.png",
-    "Aegilil Sel'dameth.md",
-    "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/03. The Shard Table.md",
+    "Lore/Lore-lore/00.Age of Starfall/04. The Legacy/02. The Verdant Shards.md",
+    "Lore/Lore-lore/00.Age of Starfall/04. The Legacy/01. The Glasswastes.md",
+    "Lore/Lore-lore/00.Age of Starfall/04. The Legacy/00. The Legacy.md",
+    "Lore/Lore-lore/00.Age of Starfall/04. The Legacy",
+    "Lore/Lore-lore/00.Age of Starfall/03. The Fall/03. The Fall.md",
+    "Lore/Lore-lore/00.Age of Starfall/03. The Fall",
+    "Lore/Lore-lore/00.Age of Starfall/02. The Apex/02. The Apex.md",
+    "Lore/Lore-lore/00.Age of Starfall/02. The Apex",
+    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/05. The First Open Challenge/Events/The Duel of the Sky-Cities.md",
+    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/05. The First Open Challenge/Events",
+    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/05. The First Open Challenge/05. The First Open Challenge.md",
+    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/05. The First Open Challenge",
+    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/04. The Expansion of Influence/04. The Expansion of Influence.md",
+    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/04. The Expansion of Influence",
+    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/03. The Forging of a City/Events/2240 AS. The Ash Market Gambit.md",
     "Lore/Lore-lore/00.Age of Starfall/01. The Rise/03. The Forging of a City/Events/2118 AS. The Siege of Shardfall Gate.md",
+    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/03. The Forging of a City/Events/2080 AS The Night of the First Ember Trial.md",
+    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/03. The Forging of a City/Events",
     "Lore/Lore-lore/00.Age of Starfall/01. The Rise/03. The Forging of a City/03. The Forging of a City.md",
+    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/03. The Forging of a City",
     "Lore/Lore-lore/00.Age of Starfall/01. The Rise/02. Embers in the Dark/Events/1835 - 2050 AS. The First Emberlords.md",
     "Lore/Lore-lore/00.Age of Starfall/01. The Rise/02. Embers in the Dark/Events/1833 AS. The Pact of Ash and Blood.md",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/02. Embers in the Dark/Events/1800 - 1825 AS. The Outcast Exodus.md",
     "Lore/Lore-lore/00.Age of Starfall/01. The Rise/02. Embers in the Dark/Events/1832 AS. The Ember Crown’s Discovery.md",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/02. Embers in the Dark/02. Embers in the Dark.md",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/02. Embers in the Dark/Events",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/05. The First Open Challenge/Events/The Duel of the Sky-Cities.md",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/05. The First Open Challenge/05. The First Open Challenge.md",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/05. The First Open Challenge/Events",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/04. The Expansion of Influence/04. The Expansion of Influence.md",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/03. The Forging of a City/Events/2080 AS The Night of the First Ember Trial.md",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/03. The Forging of a City/Events/2240 AS. The Ash Market Gambit.md",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/03. The Forging of a City/Events/Untitled",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/03. The Forging of a City/Events",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/05. The First Open Challenge",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/04. The Expansion of Influence",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/03. The Forging of a City",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/02. Embers in the Dark",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/00. The Rise",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/Untitled.md",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/03.1 Set Piece 1 — The Night of the First Ember Trial.md",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/00. The Rise/01. The Rise.md",
-    "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/02. Timeline.md",
-    "Lore/Lore-lore/00.Age of Starfall/03. The Fall/03. The Fall.md",
-    "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/00. The Factions/04. The Verdant Shards.md",
+    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/02. Embers in the Dark/Events/1800 - 1825 AS. The Outcast Exodus.md",
+    "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/00. The Factions/01. Non-State Influences/02. The Concord of Nine (Divine Pantheon).md",
+    "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/00. The Factions/01. Non-State Influences/01. The Void-Touched.md",
     "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/00. The Factions/01. Non-State Influences/00. The Starborn Orders.md",
-    "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/00. The Factions/00. Minor Factions/01. The Aetherbound Guilds.md",
     "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/00. The Factions/00. Minor Factions/00. The Glasswaste Clans.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Crimsnade.md",
-    "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/00. The Age of the Starfall.md",
+    "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/00. The Factions/00. Minor Factions/01. The Aetherbound Guilds.md",
+    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/02. Embers in the Dark/Events",
+    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/00. The Rise/01. The Rise.md",
+    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/02. Embers in the Dark/02. Embers in the Dark.md",
+    "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/00. The Factions/03. The Rise of Xyrona.md",
+    "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/00. The Factions/04. The Verdant Shards.md",
     "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/00. The Factions/01. Non-State Influences",
     "Locations/World Map Unfinished 1.jpg",
     "Story Points/Beginning Arc/Pasted image 20231115114145.png",
