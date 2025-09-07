@@ -16,8 +16,23 @@
               "icon": "lucide-file",
               "title": "Leaflet Map"
             }
+          },
+          {
+            "id": "e2b9f82804618f04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD-Campaign/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,8 +258,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d82d0d5fa2dd2fd8",
+  "active": "5beec5dcad3e8221",
   "lastOpenFiles": [
+    "DnD-Campaign/Untitled 1.md",
+    "DnD-Campaign/README.md",
     "Locations/Utheakar Empire/NPCs/Elyndra Vex’ael.md",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Aurprom.md",
     "Lore/Lore-lore/The Age of the Starfall.md",
@@ -279,8 +296,6 @@
     "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/00. The Factions/00. Minor Factions/00. The Glasswaste Clans.md",
     "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/00. The Factions/00. Minor Factions/01. The Aetherbound Guilds.md",
     "Lore/Lore-lore/00.Age of Starfall/01. The Rise/02. Embers in the Dark/Events",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/00. The Rise/01. The Rise.md",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/02. Embers in the Dark/02. Embers in the Dark.md",
     "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/00. The Factions/01. Non-State Influences",
     "Locations/World Map Unfinished 1.jpg",
     "Story Points/Beginning Arc/Pasted image 20231115114145.png",
