@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7e482d8ff493cf20",
+        "id": "bb657e789fe85eda",
         "type": "tabs",
         "children": [
           {
-            "id": "d82d0d5fa2dd2fd8",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Leaflet Map"
-            }
-          },
-          {
-            "id": "e2b9f82804618f04",
+            "id": "cf393e44c83d0f8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD-Campaign/README.md",
+                "file": "Character Stuff/Amanda Braitwaithe/Family Members/Simon Braitwaith.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Simon Braitwaith"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Elynd",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -105,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DnD-Campaign/Prep Work/THINGS TO PREP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for THINGS TO PREP"
             }
           },
           {
@@ -123,17 +113,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Stuff/Grud/Check in.md",
+                "file": "DnD-Campaign/Prep Work/THINGS TO PREP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Check in"
+              "title": "Outline of THINGS TO PREP"
             }
           },
           {
-            "id": "45fad5f2be48d143",
+            "id": "29a3c4ccafa4b714",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
@@ -147,60 +137,7 @@
                   },
                   "viewState": 1,
                   "displaying": {
-                    "day": 26,
-                    "month": 14,
-                    "year": 697
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_3b0aca3b8ba8",
-                "child": "ID_1a2ada09cb88"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "5706080c743e83e0",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_cb8b19aa69f8",
-                "ephemeral": {
-                  "viewing": {
-                    "day": 8,
-                    "month": 14,
-                    "year": 697
-                  },
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 7,
-                    "month": 14,
-                    "year": 697
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_fb687baad92a",
-                "child": "ID_e99b5a584b58"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "ba742ce099e7a7e1",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_cb8b19aa69f8",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 8,
+                    "day": 12,
                     "month": 14,
                     "year": 697
                   },
@@ -210,28 +147,29 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_f9f97a9809fb"
+                "id": "ID_8bf9f96959b9",
+                "child": "ID_290b39f919fa"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
-        "id": "74d69cb0134d016a",
+        "id": "43b95ecd05f8892b",
         "type": "tabs",
         "children": [
           {
-            "id": "411f0a35201f255f",
+            "id": "1c1d83b56da0cde5",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
                 "calendar": "ID_cb8b19aa69f8",
-                "id": "ID_e99b5a584b58",
-                "parent": "ID_fb687baad92a"
+                "id": "ID_290b39f919fa",
+                "parent": "ID_8bf9f96959b9"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -241,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,45 +197,46 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5beec5dcad3e8221",
+  "active": "cf393e44c83d0f8c",
   "lastOpenFiles": [
-    "DnD-Campaign/Untitled 1.md",
-    "DnD-Campaign/README.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Starlight Festival/Dinner Party of the First Night.md",
+    "Character Stuff/Amanda Braitwaithe/Family Members/Simon Braitwaith.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Starlight Festival/Commencement Speech.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/POIs/Birodal COTOS Base.md",
+    "Lore/Children of the Obsidian Sun/Children of the Obsidian Sun.md",
+    "Locations/Utheakar Empire/NPCs/Seven Circles/Mironwe Kevadirtinu.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Starlight Festival/Invite only Party.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Starlight Festival/Central Party.md",
+    "Locations/Utheakar Empire/NPCs/Seven Circles/Marigold Morningfall.md",
+    "Locations/Utheakar Empire/NPCs/Seven Circles/Xalvador Cloud.md",
+    "Locations/Utheakar Empire/NPCs/Seven Circles/Grapip Jorxif Sinkur Salben.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Crimsnade.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Coppenade.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Starlight Festival/01- Party Views.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Starlight Festival/Main Quarters.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Starlight Festival/Lake La'Reneal.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Starlight Festival/The Por'elar'e Observatory.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Birodal.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Festival of the Stars Decorations.md",
+    "Locations/Utheakar Empire/Organizations/Seven Circles.md",
+    "Locations/Utheakar Empire/NPCs/Sir Benedict Chevalier.md",
+    "Locations/Utheakar Empire/Overview.md",
+    "Locations/Utheakar Empire/NPCs/Seven Circles/Susanna de Bolbec.md",
     "Locations/Utheakar Empire/NPCs/Elyndra Vex’ael.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Aurprom.md",
-    "Lore/Lore-lore/The Age of the Starfall.md",
+    "General Information/Sessions/Session 5.md",
+    "Lironia.png",
+    "README.md",
+    "Untitled.base",
+    "DnD-Campaign/Prep Work",
+    "Character Stuff/Items",
     "Screenshot 2025-08-23 at 12.39.32 PM.png",
-    "Lore/Lore-lore/00.Age of Starfall/04. The Legacy/02. The Verdant Shards.md",
-    "Lore/Lore-lore/00.Age of Starfall/04. The Legacy/01. The Glasswastes.md",
-    "Lore/Lore-lore/00.Age of Starfall/04. The Legacy/00. The Legacy.md",
     "Lore/Lore-lore/00.Age of Starfall/04. The Legacy",
-    "Lore/Lore-lore/00.Age of Starfall/03. The Fall/03. The Fall.md",
     "Lore/Lore-lore/00.Age of Starfall/03. The Fall",
-    "Lore/Lore-lore/00.Age of Starfall/02. The Apex/02. The Apex.md",
     "Lore/Lore-lore/00.Age of Starfall/02. The Apex",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/05. The First Open Challenge/Events/The Duel of the Sky-Cities.md",
     "Lore/Lore-lore/00.Age of Starfall/01. The Rise/05. The First Open Challenge/Events",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/05. The First Open Challenge/05. The First Open Challenge.md",
     "Lore/Lore-lore/00.Age of Starfall/01. The Rise/05. The First Open Challenge",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/04. The Expansion of Influence/04. The Expansion of Influence.md",
     "Lore/Lore-lore/00.Age of Starfall/01. The Rise/04. The Expansion of Influence",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/03. The Forging of a City/Events/2240 AS. The Ash Market Gambit.md",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/03. The Forging of a City/Events/2118 AS. The Siege of Shardfall Gate.md",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/03. The Forging of a City/Events/2080 AS The Night of the First Ember Trial.md",
     "Lore/Lore-lore/00.Age of Starfall/01. The Rise/03. The Forging of a City/Events",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/03. The Forging of a City/03. The Forging of a City.md",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/03. The Forging of a City",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/02. Embers in the Dark/Events/1835 - 2050 AS. The First Emberlords.md",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/02. Embers in the Dark/Events/1833 AS. The Pact of Ash and Blood.md",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/02. Embers in the Dark/Events/1832 AS. The Ember Crown’s Discovery.md",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/02. Embers in the Dark/Events/1800 - 1825 AS. The Outcast Exodus.md",
-    "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/00. The Factions/01. Non-State Influences/02. The Concord of Nine (Divine Pantheon).md",
-    "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/00. The Factions/01. Non-State Influences/01. The Void-Touched.md",
-    "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/00. The Factions/01. Non-State Influences/00. The Starborn Orders.md",
-    "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/00. The Factions/00. Minor Factions/00. The Glasswaste Clans.md",
-    "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/00. The Factions/00. Minor Factions/01. The Aetherbound Guilds.md",
-    "Lore/Lore-lore/00.Age of Starfall/01. The Rise/02. Embers in the Dark/Events",
-    "Lore/Lore-lore/00.Age of Starfall/00. The Age of the Starfall/00. The Factions/01. Non-State Influences",
     "Locations/World Map Unfinished 1.jpg",
     "Story Points/Beginning Arc/Pasted image 20231115114145.png",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Birodalom.jpg",

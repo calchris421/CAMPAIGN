@@ -5,4 +5,4 @@
 
 Samuel Braitwaith is the son of [[]] & [[]] Briatwaith. Being raised outside of the inner circles of the Braitwaith family, secluding them from the issues that come along with it. 
 
-	Throughtout his life, Samuel has actually taken a different suriname. Now living under the name of Samuel Eddlemon.
+	Throughtout his life, Simon has actually taken a different suriname. Now living under the name of Simon Eddlemon.

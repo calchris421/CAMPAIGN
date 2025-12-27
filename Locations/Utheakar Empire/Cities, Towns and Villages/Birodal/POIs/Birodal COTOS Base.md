@@ -1,0 +1,1 @@
+This base is located in the underground labyrinth of the Centranade. It will be revealed to them during the party when Amanda's target is escaping them. Map Included.

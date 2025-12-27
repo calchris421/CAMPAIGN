@@ -1,5 +1,5 @@
 ## Overview
-Dirinor Aldarina is a genderfuid wood elf. They act as the middle ground for things within the [[Seven Circles]]. They are the person who is most likely to take things at face value, and not overcomplicate things. They know many secrets held within the council.
+[[Dirinor Aldarina]] is a genderfluid wood elf. They act as the middle ground for things within the [[Seven Circles]]. They are the person who is most likely to take things at face value, and not overcomplicate things. They know many secrets held within the council.
 
 ---
 ### Appearance:

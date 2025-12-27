@@ -14,7 +14,7 @@ Marigold Morningfall is a mystic, and serves as a general all purpose source for
 
 ---
 ### Interesting Facts:
-- Racist toward dragonborns
+- Racist toward dragonborn
 - Patient
 - Courageous to a fault
 

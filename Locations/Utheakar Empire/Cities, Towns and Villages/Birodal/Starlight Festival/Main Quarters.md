@@ -1,0 +1,1 @@
+This is a location that has been turned into a sort of rough housing area for those who are too drunk to get home themselves or rich enough to afford the more extravagant housing on the higher floors. The bottom floor houses a tavern-like atmosphere, and has been turned into a 

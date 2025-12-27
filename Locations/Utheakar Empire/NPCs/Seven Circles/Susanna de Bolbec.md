@@ -11,12 +11,11 @@ Susanna de Bolbec is the only Cleric of the group [[Seven Circles]]. Her prowess
 - General Appearance:
 	- Dark chocolate colored skin
 	- 2 piercings in her left ear
-	- 
 ---
 ### Interesting Facts:
 - Has an intimate relationship with [[Dirinor Aldarina]]
 - Prioritizes others needs, to a fault
-- Very optomistic
+- Very optimistic
 - Carries blessed water wherever she goes
 - Wants to know every side of a story before expressing her opinion.
 
