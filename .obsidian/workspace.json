@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Stuff/Amanda Braitwaithe/Family Members/Simon Braitwaith.md",
+                "file": "Character Stuff/Dunn/Back Story.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Simon Braitwaith"
+              "title": "Back Story"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 200
   },
   "right": {
     "id": "c50a7a32588a54d0",
@@ -197,10 +197,29 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "cf393e44c83d0f8c",
+  "active": "5beec5dcad3e8221",
   "lastOpenFiles": [
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Starlight Festival/Dinner Party of the First Night.md",
+    "Character Stuff/Dunn/WANTED POSTER.png",
+    "Character Stuff/Dunn/Abiit.png",
+    "Character Stuff/Dunn/Abiit.md",
+    "Character Stuff/Dunn/Church of Shar.md",
+    "Character Stuff/Dunn/Church of Selûne.md",
+    "Character Stuff/Dunn/Back Story.md",
+    "Locations/World Map Unfinished 1.jpg",
+    "Locations/Ikareth.md",
+    "Screenshot 2025-08-23 at 12.39.32 PM.png",
+    "Untitled.base",
+    "README.md",
+    "Lironia.png",
+    "General Information/Sessions/Session 11 07202026.md",
+    "Character Stuff/Dunn/Check in.md",
+    "General Information/Sessions/Session 10 09012025.md",
+    "General Information/Sessions/Session 9 05262025.md",
+    "General Information/Sessions/Session 8 03102025.md",
+    "General Information/Sessions/Session 7 02242025.md",
+    "General Information/Sessions/Session 6 02172025.md",
     "Character Stuff/Amanda Braitwaithe/Family Members/Simon Braitwaith.md",
+    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Starlight Festival/Dinner Party of the First Night.md",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Starlight Festival/Commencement Speech.md",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/POIs/Birodal COTOS Base.md",
     "Lore/Children of the Obsidian Sun/Children of the Obsidian Sun.md",
@@ -211,25 +230,8 @@
     "Locations/Utheakar Empire/NPCs/Seven Circles/Xalvador Cloud.md",
     "Locations/Utheakar Empire/NPCs/Seven Circles/Grapip Jorxif Sinkur Salben.md",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Crimsnade.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Districts/Coppenade.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Starlight Festival/01- Party Views.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Starlight Festival/Main Quarters.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Starlight Festival/Lake La'Reneal.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Starlight Festival/The Por'elar'e Observatory.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Birodal.md",
-    "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/Festival of the Stars Decorations.md",
-    "Locations/Utheakar Empire/Organizations/Seven Circles.md",
-    "Locations/Utheakar Empire/NPCs/Sir Benedict Chevalier.md",
-    "Locations/Utheakar Empire/Overview.md",
-    "Locations/Utheakar Empire/NPCs/Seven Circles/Susanna de Bolbec.md",
-    "Locations/Utheakar Empire/NPCs/Elyndra Vex’ael.md",
-    "General Information/Sessions/Session 5.md",
-    "Lironia.png",
-    "README.md",
-    "Untitled.base",
     "DnD-Campaign/Prep Work",
     "Character Stuff/Items",
-    "Screenshot 2025-08-23 at 12.39.32 PM.png",
     "Lore/Lore-lore/00.Age of Starfall/04. The Legacy",
     "Lore/Lore-lore/00.Age of Starfall/03. The Fall",
     "Lore/Lore-lore/00.Age of Starfall/02. The Apex",
@@ -237,14 +239,12 @@
     "Lore/Lore-lore/00.Age of Starfall/01. The Rise/05. The First Open Challenge",
     "Lore/Lore-lore/00.Age of Starfall/01. The Rise/04. The Expansion of Influence",
     "Lore/Lore-lore/00.Age of Starfall/01. The Rise/03. The Forging of a City/Events",
-    "Locations/World Map Unfinished 1.jpg",
     "Story Points/Beginning Arc/Pasted image 20231115114145.png",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Birodal/External Files/Birodalom.jpg",
     "Untitled.canvas",
     "Locations/Utheakar Wilds/CTV/Dorland/download.png",
     "Locations/Utheakar Empire/Cities, Towns and Villages/Karini/External Fires/Pasted image 20230313175427.png",
     "Pasted image 20230313175355.png",
-    "Pasted image 20230313175403.png",
-    "Pasted image 20230313175415.png"
+    "Pasted image 20230313175403.png"
   ]
 }
